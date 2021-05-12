@@ -8,6 +8,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
+* [В Credit Card Number Validator отклоняются 15-значные номера карт Voyager](https://github.com/ElenaVedernikova/Project_J_1_1/issues/1)
+* [В Credit Card Number Validator отклоняются 14-значные номера карт Diners Club](https://github.com/ElenaVedernikova/Project_J_1_1/issues/2)
+* [В Credit Card Number Validator отклоняются 13-значные номера карт Visa 13 digit ](https://github.com/ElenaVedernikova/Project_J_1_1/issues/3)
 
 
 ## Описание процесса тестирования
